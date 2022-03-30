@@ -32,7 +32,7 @@ public class SettingsActivity extends AppCompatActivity {
         }
     }
 
-    private void test3(){
+    private void test4(){
 
     }
 }
